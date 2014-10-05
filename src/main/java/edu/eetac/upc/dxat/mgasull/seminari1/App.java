@@ -8,7 +8,6 @@ public class App {
 		
 	public static void main(String[] args) {
 		
-			calc c = new calc();
 			System.out.println("Hello World!");
 			int res=0;
 			
