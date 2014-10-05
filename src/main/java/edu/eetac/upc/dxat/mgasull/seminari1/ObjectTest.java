@@ -13,6 +13,8 @@ public class ObjectTest {
 		obj.index = 1;
 		obj.name = "marti";
 		
+		
+		
 		assertEquals(obj, obj.Get());
 	}
 }
